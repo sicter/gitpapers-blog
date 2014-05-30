@@ -1,4 +1,0 @@
-gitpapers-blog
-==============
-
-EdwardsBlog
